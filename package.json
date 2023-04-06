@@ -1,0 +1,22 @@
+{
+  "name": "creativeai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajpreet-S/NodeJS---Creative-AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajpreet-S/NodeJS---Creative-AI/issues"
+  },
+  "homepage": "https://github.com/Ajpreet-S/NodeJS---Creative-AI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
